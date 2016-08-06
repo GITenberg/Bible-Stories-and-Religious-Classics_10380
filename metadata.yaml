@@ -1,0 +1,30 @@
+_repo: Bible-Stories-and-Religious-Classics_10380
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Wells, Philip P. (Philip Patterson)
+    aliases:
+    - Wells, P. P. (Philip Patterson)
+    - Wells, Philip Patterson
+    birthdate: 1868
+    deathdate: 1929
+    gutenberg_agent_id: '3499'
+    url: http://www.gutenberg.org/2009/agents/3499
+description: ''
+gutenberg_bookshelf: Children's Religion
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '10380'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Christian literature for children'
+- !lcc 'BS'
+- !lcc 'PZ'
+- !lcsh 'Bible stories, English -- Juvenile literature'
+- GITenberg
+title: Bible Stories and Religious Classics
+url: http://www.gutenberg.org/ebooks/10380
